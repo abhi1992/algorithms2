@@ -9,7 +9,7 @@ Theory
 6. Java
 7. Nodejs
 -- Not needed --
-8. Opera
+8. Opera stijgiotdrhirx
 9. Vivaldi
 10. Firefox
 
